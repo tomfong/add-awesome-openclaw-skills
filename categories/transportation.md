@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**110 skills**
+**111 skills**
 
 - [accountsos](https://clawskills.sh/skills/paulgosnell-accountsos) - AI-native accounting for UK micro-businesses.
 - [aetherlang-strategy](https://clawskills.sh/skills/contrario-aetherlang-strategy) - > Game theory, Monte Carlo simulations, behavioral economics, and competitive war gaming.
@@ -65,6 +65,7 @@
 - [gotrain](https://clawskills.sh/skills/gumadeiras-gotrain) - MTA system train departures (NYC Subway, LIRR, Metro-North).
 - [greek-compliance-aade](https://clawskills.sh/skills/satoshistackalotto-greek-compliance-aade) - Greek tax compliance with AADE/TAXIS integration — VAT, payroll, EFKA, municipal taxes, stamp duty.
 - [hk-bus-eta](https://clawskills.sh/skills/tomfong-hk-bus-eta) - Real-time Hong Kong bus arrival predictions for KMB, LWB, and Citybus. 香港九巴、城巴及龍運實時到站時間查詢。
+- [hk-mtr-next-train](https://clawskills.sh/skills/tomfong-hk-mtr-next-train) - Real-time Hong Kong MTR next-train arrival times lookup. 香港鐵路(港鐵)列車實時到站預報。
 - [hudy](https://clawskills.sh/skills/kyu1204-hudy) - Korean public holidays and business day calculations via HuDy MCP.
 - [idfm-journey-navitia](https://clawskills.sh/skills/anthonymq-idfm-journey-navitia) - Query Île-de-France Mobilités (IDFM) PRIM/Navitia.
 - [idfm-journey-skill](https://clawskills.sh/skills/anthonymq-idfm-journey-skill) - Query Île-de-France Mobilités (IDFM) PRIM/Navitia.
