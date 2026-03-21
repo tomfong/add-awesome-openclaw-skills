@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**353 skills**
+**352 skills**
 
 - [1](https://clawskills.sh/skills/nastrology-1) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [academic-deep-research](https://clawskills.sh/skills/kesslerio-academic-deep-research) - Transparent, rigorous research with full.
@@ -68,7 +68,6 @@
 - [binance-hunter](https://clawskills.sh/skills/tetravad-binance-hunter) - The Hunter: Professional Binance Trading Skill.
 - [bing-search](https://clawskills.sh/skills/stdeson-bing-search) - Bing search skill for all users.
 - [biodiversity-corridor-calculator](https://clawskills.sh/skills/nikhilp1234567-biodiversity-corridor-calculator) - Open Claw Agent Skill: Biodiversity Corridor Analyst.
-- [bird-su](https://clawskills.sh/skills/iqbalnaveliano-bird-su) - X/Twitter CLI for reading, searching, and posting via cookies.
 - [birdnet](https://clawskills.sh/skills/rappo-birdnet) - Query BirdNET-Go bird detections.
 - [blacksnow](https://clawskills.sh/skills/sieershafilone-blacksnow) - Detects pre-news ambient risk signals across human, legal.
 - [bloom](https://clawskills.sh/skills/unicornbloom-bloom) - Discover your supporter personality and find AI tools you'll love.
@@ -160,7 +159,6 @@
 - [google-trends](https://clawskills.sh/skills/satnamra-google-trends) - Monitor Google Trends - get trending searches, compare keywords, and track interest over time.
 - [gsd](https://clawskills.sh/skills/oleg-schmidt-gsd) - Get Shit Done - Full project planning and execution workflow.
 - [happenstance](https://clawskills.sh/skills/dgoss28-happenstance) - Search your professional network and research people using the Happenstance API.
-- [hf-papers](https://clawskills.sh/skills/willamhou-hf-papers) - Browse trending Hugging Face Papers, search by keyword, and get paper details.
 - [hippius](https://clawskills.sh/skills/maxquick-hippius) - Hippius decentralized storage on Bittensor Subnet 75 — upload files, query storage, manage buckets.
 - [hira-hospital](https://clawskills.sh/skills/sw326-hira-hospital) - HIRA hospital information search API.
 - [hk101-living-rag](https://clawskills.sh/skills/metatronsdoob369-hk101-living-rag) - Simple RAG over local text/markdown.

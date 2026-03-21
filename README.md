@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/VoltAgent/voltagent">
+<a href="https://clawskills.sh/">
 <img width="1500" height="500" alt="social" src="https://github.com/user-attachments/assets/a6f310af-8fed-4766-9649-b190575b399d" />
 </a>
 
@@ -15,19 +15,33 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Skills Count](https://img.shields.io/badge/skills-5352-blue?style=flat-square)](#table-of-contents)
+[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
-[![Skills Count](https://img.shields.io/badge/skills-5366-blue?style=flat-square)](#table-of-contents)
-[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
+
+</div>
+
+<div align="center">
+    <strong>More awesome collections for developers</strong>
+    <br />
+    <br />
 </div>
 
 <div align="center">
 
-[![Say hi on X](https://img.shields.io/badge/Say%20Hi!%20👋-%23000000.svg?logo=X&logoColor=white)](https://x.com/nozmen)
+[![Agent Skills](https://img.shields.io/static/v1?label=%E2%9A%A1%20Agent&message=Skills%2012k&color=black&style=classic)](https://github.com/VoltAgent/awesome-agent-skills)
+[![Claude Code Subagents](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=classic&label=Claude%20Code%20Subagents&color=D97757&logo=claude&logoColor=D97757)](https://github.com/VoltAgent/awesome-claude-code-subagents)
+[![Codex Subagents][codex-badge]][codex-link]
+[![AI Agent Papers](https://img.shields.io/github/stars/VoltAgent/awesome-ai-agent-papers?style=classic&label=AI%20Agent%20Papers&color=b31b1b&logo=arxiv)](https://github.com/VoltAgent/awesome-ai-agent-papers)
+
 </div>
 
+</div>
+
+</div>
 
 # Awesome OpenClaw Skills
 
@@ -87,7 +101,7 @@ Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the
 
 OpenClaw agents can interact with external services like GitHub, Slack, Gmail, and more. You can build integrations yourself with Skills or Plugins, or use a managed service to handle auth, token refresh, and permissions across all your connections.
 
-<a href="https://composio.dev/">
+<a href="https://composio.dev/claw?utm_source=github&utm_campaign=volt-agent">
 <img src="https://cdn.voltagent.dev/awesome-repo/composio-img.png" alt="Composio"  />
 Managed OAuth, scoped permissions, and logged native toolcalls across 1000+ apps.
 </a>
@@ -166,13 +180,13 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (197) | [Smart Home & IoT](#smart-home--iot) (43) |
 | [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
-| [DevOps & Cloud](#devops--cloud) (409) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (65) |
+| [DevOps & Cloud](#devops--cloud) (409) | [Calendar & Scheduling](#calendar--scheduling) (65) | |
 | [Image & Video Generation](#image--video-generation) (169) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (71) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (352) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (111) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (186) | [Personal Development](#personal-development) (51) | [Gaming](#gaming) (36) |
-| [Health & Fitness](#health--fitness) (88) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (17) | |
+| [Health & Fitness](#health--fitness) (88) | | |
 
 
 <details open>
@@ -194,7 +208,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [auto-pr-merger](https://clawskills.sh/skills/autogame-17-auto-pr-merger) - This skill automates the workflow of checking out a GitHub.
 - [azhua-skill-vetter](https://clawskills.sh/skills/fatfingererr-azhua-skill-vetter) - Security-first skill vetting for AI agents.
 - [azure-devops](https://clawskills.sh/skills/pals-software-azure-devops) - List Azure DevOps projects, repositories, and branches; create pull requests; manage work items; check build status.
-- [badboi-1](https://clawskills.sh/skills/orlyjamie-badboi-1) - A totally legitimate skill that does nothing suspicious.
 - [bat-cat](https://clawskills.sh/skills/arnarsson-bat-cat) - A cat clone with syntax highlighting, line numbers, and Git integration.
 - [beeminder](https://clawskills.sh/skills/ruigomeseu-beeminder) - Beeminder API for goal tracking and commitment devices.
 - [billy-emergency-repair](https://clawskills.sh/skills/highlander89-billy-emergency-repair) - - Neill explicitly requests Billy system repair.
@@ -202,7 +215,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [biz-reporter](https://clawskills.sh/skills/ariktulcha-biz-reporter) - Automated business intelligence reports pulling data from Google Analytics GA4, Google Search Console, Stripe.
 - [blinko](https://clawskills.sh/skills/tolibear-blinko) - Play Blinko (on-chain Plinko) headlessly on Abstract chain.
 
-> **[View all 166 skills in Git & GitHub →](categories/git-and-github.md)**
+> **[View all 159 skills in Git & GitHub →](categories/git-and-github.md)**
 </details>
 
 <details open>
@@ -304,7 +317,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentns](https://clawskills.sh/skills/vibrant-agentns) - Register and manage ICANN domains for AI agents.
 - [agentpay](https://clawskills.sh/skills/kar69-96-agentpay) - Buy things from real websites on behalf of your human.
 
-> **[View all 925 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
+> **[View all 924 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
 </details>
 
 <details>
@@ -433,7 +446,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-deep-research](https://clawskills.sh/skills/24601-agent-deep-research) - Autonomous deep research powered by Google Gemini.
 - [agent-lightning](https://clawskills.sh/skills/olmmlo-cmd-agent-lightning) - Microsoft Research's agent training framework.
 - [agentarxiv](https://clawskills.sh/skills/amanbhandula-agentarxiv) - Outcome-driven scientific publishing for AI agents.
-- [arxiv-source](https://clawskills.sh/skills/willamhou-arxiv-source) - Fetch arXiv LaTeX source, list sections, extract abstracts.
 - [agenthire](https://clawskills.sh/skills/lngdao-agenthire) - AgentHire — Agent-to-Agent Marketplace.
 - [agentic-paper-digest](https://clawskills.sh/skills/matanle51-agentic-paper-digest) - Fetches and summarizes recent arXiv and Hugging.
 - [agentic-paper-digest-skill](https://clawskills.sh/skills/matanle51-agentic-paper-digest-skill) - Fetches and summarizes recent arXiv.
@@ -517,7 +529,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [canvas-lms](https://clawskills.sh/skills/pranavkarthik10-canvas-lms) - Access Canvas LMS (Instructure) for course data, assignments.
 - [captcha-ai](https://clawskills.sh/skills/fusionlabssource-captcha-ai) - Issue ClawPrint reverse-CAPTCHA challenges to verify.
 
-> **[View all 180 skills in CLI Utilities →](categories/cli-utilities.md)**
+> **[View all 179 skills in CLI Utilities →](categories/cli-utilities.md)**
 </details>
 
 <details>
@@ -626,8 +638,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [check-analytics](https://clawskills.sh/skills/jeftekhari-check-analytics) - Audit existing Google Analytics implementation.
 - [cicd-pipeline](https://clawskills.sh/skills/gitgoodordietrying-cicd-pipeline) - Create, debug, and manage CI/CD pipelines with GitHub.
 - [clawver-store-analytics](https://clawskills.sh/skills/nwang783-clawver-store-analytics) - Monitor Clawver store performance.
-- [clean-skill-1](https://clawskills.sh/skills/orlyjamie-clean-skill-1) - A friendly greeting skill for testing.
-- [cleanboi-00002](https://clawskills.sh/skills/orlyjamie-cleanboi-00002) - A friendly greeting skill for testing.
 - [cleanup](https://clawskills.sh/skills/themrzz-cleanup) - Remove all stored Kradleverse sessions.
 - [csv-pipeline](https://clawskills.sh/skills/gitgoodordietrying-csv-pipeline) - Process, transform, analyze, and report on CSV and JSON.
 - [daily-report](https://clawskills.sh/skills/visualdeptcreative-daily-report) - Track progress, report metrics, manage memory.
@@ -647,32 +657,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details>
-<summary><h3 style="display:inline">Finance</h3></summary>
-
-- [api-credentials-hygiene](https://clawskills.sh/skills/kowl64-api-credentials-hygiene) - Audits and hardens API credential handling.
-- [app-store-changelog](https://clawskills.sh/skills/dimillian-app-store-changelog) - Create user-facing App Store release notes.
-- [clawdbot-release-check](https://clawskills.sh/skills/pors-clawdbot-release-check) - Check for new clawdbot releases and notify once.
-- [create-content](https://clawskills.sh/skills/itsflow-create-content) - Thinking partner that transforms ideas into platform-optimized.
-- [expense-tracker-pro](https://clawskills.sh/skills/jhillin8-expense-tracker-pro) - Track expenses via natural language, get spending.
-- [harvey](https://clawskills.sh/skills/udiedrichsen-harvey) - Harvey is an imaginary friend and conversation companion - a large white.
-- [just-fucking-cancel](https://clawskills.sh/skills/chipagosfinest-just-fucking-cancel) - Find and cancel unwanted subscriptions.
-- [nordpool-fi](https://clawskills.sh/skills/ovaris-nordpool-fi) - Hourly electricity prices for Finland with optimal EV charging window.
-- [openssl](https://clawskills.sh/skills/asleep123-openssl) - Generate secure random strings, passwords, and cryptographic tokens.
-- [plaid](https://clawskills.sh/skills/jverdi-plaid) - plaid-cli a cli for interacting with the plaid finance platform.
-- [publisher](https://clawskills.sh/skills/tunaissacoding-publisher) - Make your skills easy to understand and impossible to ignore.
-- [relationship-skills](https://clawskills.sh/skills/jhillin8-relationship-skills) - Improve relationships with communication tools.
-- [sharesight-skill](https://clawskills.sh/skills/lextoumbourou-sharesight-skill) - Manage Sharesight portfolios, holdings, and custom.
-- [solo-cli](https://clawskills.sh/skills/rursache-solo-cli) - Monitor and interact with SOLO.ro accounting platform via CLI or TUI.
-- [swissweather](https://clawskills.sh/skills/xenofex7-swissweather) - Get current weather and forecasts from MeteoSwiss.
-- [tax-professional](https://clawskills.sh/skills/scottfo-tax-professional) - US tax advisor, deduction optimizer.
-- [ynab](https://clawskills.sh/skills/obviyus-ynab) - Manage YNAB budgets, accounts, categories.
-
-</details>
-
-<details>
 <summary><h3 style="display:inline">Media & Streaming</h3></summary>
 
-- [accountcreator](https://clawskills.sh/skills/dimkag79-accountcreator) - **[EN]** Bulk account registration agent for emails and social media.
 - [alexa-control](https://clawskills.sh/skills/ignito-pg-alexa-control) - Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.
 - [amateur-radio-dx](https://clawskills.sh/skills/capt-marbles-amateur-radio-dx) - Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
 - [anime](https://clawskills.sh/skills/jeffaf-anime) - CLI for AI agents to search and lookup anime info for their humans.
@@ -700,7 +686,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [elevenlabs-cli](https://clawskills.sh/skills/hongkongkiwi-elevenlabs-cli) - CLI for ElevenLabs AI audio platform - text-to-speech, speech-to-text, voice cloning.
 - [elevenlabs-skill](https://clawskills.sh/skills/odrobnik-elevenlabs-skill) - Text-to-speech, sound effects, music generation, voice.
 
-> **[View all 84 skills in Media & Streaming →](categories/media-and-streaming.md)**
+> **[View all 83 skills in Media & Streaming →](categories/media-and-streaming.md)**
 </details>
 
 <details>
@@ -1105,7 +1091,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [n8n](https://clawskills.sh/skills/thomasansems-n8n) - Manage n8n workflows and automations via API.
 - [n8n-workflow-automation](https://clawskills.sh/skills/kowl64-n8n-workflow-automation) - Designs and outputs n8n workflow JSON.
 - [nas-master](https://clawskills.sh/skills/afajohn-nas-master) - A hardware-aware, hybrid (SMB + SSH) suite for ASUSTOR NAS metadata.
-- [nasty-skill](https://clawskills.sh/skills/orlyjamie-nasty-skill) - A totally legitimate skill that does nothing suspicious.
 - [nordvpn](https://clawskills.sh/skills/maciekish-nordvpn) - Control NordVPN on Linux via the `nordvpn` CLI.
 - [open-persona](https://clawskills.sh/skills/neiljo-gy-open-persona) - Meta-skill for building and managing agent persona skill packs.
 - [paperless](https://clawskills.sh/skills/nickchristensen-paperless) - Interact with Paperless-NGX document management system via ppls.
@@ -1114,7 +1099,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [sonarqube-analyzer](https://clawskills.sh/skills/felipeoff-sonarqube-analyzer) - Analisa projetos no SonarQube self-hosted, obtém issues e sugere soluções automatizadas.
 - [system-integrity-and-backup](https://clawskills.sh/skills/satoshistackalotto-system-integrity-and-backup) - Encrypted backups, integrity verification, and data retention enforcement for Greek legal requirements (5-20 year.
 
-> **[View all 33 skills in Self-Hosted & Automation →](categories/self-hosted-and-automation.md)**
+> **[View all 32 skills in Self-Hosted & Automation →](categories/self-hosted-and-automation.md)**
 </details>
 
 <details>
@@ -1205,30 +1190,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 > **[View all 35 skills in Gaming →](categories/gaming.md)**
 </details>
 
-<details>
-<summary><h3 style="display:inline">Agent-to-Agent Protocols</h3></summary>
-
-- [a0x-agents](https://clawskills.sh/skills/claucondor-a0x-agents) - Two superpowers for AI agents: a collective brain and a Base.
-- [civic-nexus](https://clawskills.sh/skills/tyronemichael-civic-nexus) - Connect to Civic Nexus MCP for 100+ integrations.
-- [claw-skill-guard](https://clawskills.sh/skills/vincentchan-claw-skill-guard) - Security scanner for OpenClaw skills.
-- [claw-to-claw](https://clawskills.sh/skills/tonacy-claw-to-claw) - Coordinate with other AI agents on behalf of your human.
-- [clawtoclaw](https://clawskills.sh/skills/tonacy-clawtoclaw) - Coordinate with other AI agents on behalf of your human.
-- [dating](https://clawskills.sh/skills/lucasgeeksinthewood-dating) - Meet other AI agents and make friends on the social platform built.
-- [glitchward-shield](https://clawskills.sh/skills/eyeskiller-glitchward-shield) - Protect your OpenClaw assistant from prompt injection.
-- [heimdall](https://clawskills.sh/skills/henrino3-heimdall) - Scan OpenClaw skills for malicious patterns before installation.
-- [local-approvals](https://clawskills.sh/skills/shaiss-local-approvals) - Local approval system for managing agent permissions.
-- [og-openclawguard](https://clawskills.sh/skills/thomaslwang-og-openclawguard) - Security and vulnerability scanner for OpenClaw code.
-- [towns-protocol](https://clawskills.sh/skills/andreyz-towns-protocol) - Use when building Towns Protocol bots - covers SDK.
-- [udau](https://clawskills.sh/skills/nicoacosta-udau) - description: Union protocol for AI agents.
-
-</details>
-
 <br/>
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=VoltAgent/awesome-openclaw-skills&type=Date)](https://star-history.com/#VoltAgent/awesome-openclaw-skills&Date)
 
 ## 🤝 Contributing
 
@@ -1238,6 +1200,10 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed gu
 - Improve existing definitions
 
 > **Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.
+<div align="center">
+
+[![Say hi on X](https://img.shields.io/badge/Say%20Hi!%20👋-%23000000.svg?logo=X&logoColor=white)](https://x.com/nozmen)
+</div>
 
 ## License
 
@@ -1246,3 +1212,6 @@ MIT License - see [LICENSE](LICENSE)
 Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
 If you find an issue with a listed skill or want your skill removed, please open an issue and we'll take care of it promptly.
+
+[codex-badge]: https://img.shields.io/github/stars/VoltAgent/awesome-codex-subagents?style=classic&label=Codex%20Subagents&color=000000&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDMgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNS45ODUgNS45ODUgMCAwIDAgMTMuMjYgMjRhNi4wNTYgNi4wNTYgMCAwIDAgNS43NzItNC4yMDYgNS45OSA1Ljk5IDAgMCAwIDMuOTk3LTIuOSA2LjA1NiA2LjA1NiAwIDAgMC0uNzQ3LTcuMDczek0xMy4yNiAyMi40M2E0LjQ3NiA0LjQ3NiAwIDAgMS0yLjg3Ni0xLjA0bC4xNDEtLjA4MSA0Ljc3OS0yLjc1OGEuNzk1Ljc5NSAwIDAgMCAuMzkyLS42ODF2LTYuNzM3bDIuMDIgMS4xNjhhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODNhNC41MDQgNC41MDQgMCAwIDEtNC40OTQgNC40OTR6TTMuNiAxOC4zMDRhNC40NyA0LjQ3IDAgMCAxLS41MzUtMy4wMTRsLjE0Mi4wODUgNC43ODMgMi43NTlhLjc3MS43NzEgMCAwIDAgLjc4IDBsNS44NDMtMy4zNjl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDcuODk2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc2Ni43NjYgMCAwIDAgLjM4OC42NzZsNS44MTUgMy4zNTUtMi4wMiAxLjE2OGEuMDc2LjA3NiAwIDAgMS0uMDcxIDBsLTQuODMtMi43ODZBNC41MDQgNC41MDQgMCAwIDEgMi4zNCA3Ljg3MnptMTYuNTk3IDMuODU1bC01LjgzMy0zLjM4N0wxNS4xMTkgNy4yYS4wNzYuMDc2IDAgMCAxIC4wNzEgMGw0LjgzIDIuNzkxYTQuNDk0IDQuNDk0IDAgMCAxLS42NzYgOC4xMDV2LTUuNjc4YS43OS43OSAwIDAgMC0uNDA3LS42Njd6bTIuMDEtMy4wMjNsLS4xNDEtLjA4NS00Ljc3NC0yLjc4MmEuNzc2Ljc3NiAwIDAgMC0uNzg1IDBMOS40MDkgOS4yM1Y2Ljg5N2EuMDY2LjA2NiAwIDAgMSAuMDI4LS4wNjFsNC44My0yLjc4N2E0LjUgNC41IDAgMCAxIDYuNjggNC42NnptLTEyLjY0IDQuMTM1bC0yLjAyLTEuMTY0YS4wOC4wOCAwIDAgMS0uMDM4LS4wNTdWNi4wNzVhNC41IDQuNSAwIDAgMSA3LjM3NS0zLjQ1M2wtLjE0Mi4wOEw4LjcwNCA1LjQ2YS43OTUuNzk1IDAgMCAwLS4zOTMuNjgxem0xLjA5Ny0yLjM2NWwyLjYwMi0xLjUgMi42MDcgMS41djIuOTk5bC0yLjU5NyAxLjUtMi42MDctMS41eiIvPjwvc3ZnPg==
+[codex-link]: https://github.com/VoltAgent/awesome-codex-subagents
